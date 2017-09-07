@@ -1,6 +1,6 @@
 # my-first-vue-project
 
-> A Vue.js project
+> 此项目来源慕课网课程（vue.js入门基础），最基本的todo-list
 
 ## Build Setup
 
